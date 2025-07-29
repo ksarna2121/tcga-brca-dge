@@ -1,0 +1,3 @@
+[submodule "KJZUmap/KJZUMAP"]
+	path = KJZUmap/KJZUMAP
+	url = https://github.com/JackRobs25/KJZUMAP.git
